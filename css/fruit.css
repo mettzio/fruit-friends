@@ -1,0 +1,134 @@
+p {
+    font-family: Arial;
+}
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+.description {
+    font-size: 17px;
+    width: 600px;
+    text-align: center;
+    display: inline-block;
+}
+.fruit {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+.title {
+    display: inline-block;
+}
+.descriptionDiv {
+    display: inline-block;
+}
+.fruitT {
+    text-align: center;
+    background-color: rgb(0, 150, 0);
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+.fruitT:hover {
+    cursor: pointer;
+}
+.fruitGuy {
+    display: inline-block;
+    width: 300px;
+}
+.fruitImages {
+    text-align: center;
+    background-color: rgb(0, 150, 0);
+    width: 1920px;
+}
+.cast {
+    background-color: rgb(0, 119, 0);
+    display: inline-block;
+    width: 1920px;
+    text-align: center;
+}
+.castText {
+    font-weight: bold;
+    color: white;
+    font-size: 20px
+}
+.whereWatch {
+    border: none;
+    background-color: white;
+    font-size: 17px;
+}
+.wwDiv {
+    display: inline-block;
+}
+.whereWatch:hover {
+    cursor: pointer;
+}
+.aaa {
+    display: inline-block;
+    width: 1440px;
+}
+.homeButton {
+    border: none;
+    background-color: white;
+    font-size: 17px;
+}
+.homeDiv {
+    display: inline-block;
+}
+.homeButton:hover {
+    cursor: pointer;
+}
+.story {
+    border: none;
+    background-color: white;
+    font-size: 17px;
+}
+.story:hover {
+    cursor: pointer;
+}
+.storyDiv {
+    display: inline-block;
+}
+.seperator {
+    background-color: rgb(0, 119, 0);
+    height: 60px;
+}
+.pfpDes {
+    display: inline-block;
+    width: 600px;
+    font-size: 20px;
+    text-align: center;
+}
+.pfp {
+    align-items: center;
+    height: 400px;
+    width: 400px;
+}
+.fruitImages2 {
+    text-align: center;
+    width: 1920px;
+}
+.aab {
+    display: inline-block;
+    width: 650px
+}
+.break {
+    height: 100px;
+}
+.wtw {
+    font-size: 45px;
+    font-weight: bold;
+}
+.wtwd {
+    text-align: center;
+}
+.wtwt {
+    font-size: 25px;
+}
+.wtwtd {
+    text-align: center;
+}
+.ah {
+    font-weight: bold;
+}
